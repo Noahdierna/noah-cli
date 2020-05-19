@@ -6,4 +6,4 @@ this use axios to get the api from public holidays and country-list package to c
 
 ## important 
 
-i have some troubles to publish this ackage but it will be online soon 
+i have some troubles to publish this package but it will be online soon 
